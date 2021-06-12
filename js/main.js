@@ -1,5 +1,5 @@
 $(function(){
-  
+
   $('.info-tabs__item').on('click', function (e) {
     e.preventDefault();
 
